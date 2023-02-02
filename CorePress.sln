@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorePress.WebApi", "CorePress.WebApi\CorePress.WebApi.csproj", "{3C4E499F-CC52-4C4D-BD81-2E0E70AF89B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorePress.Data", "CorePress.Data\CorePress.Data.csproj", "{4D0911BF-343D-45BD-8294-3F3EF2EEC38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorePress.Common", "CorePress.Common\CorePress.Common.csproj", "{8E7784E1-4556-4040-9E37-F73F8FF10B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C4E499F-CC52-4C4D-BD81-2E0E70AF89B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4E499F-CC52-4C4D-BD81-2E0E70AF89B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4E499F-CC52-4C4D-BD81-2E0E70AF89B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4E499F-CC52-4C4D-BD81-2E0E70AF89B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D0911BF-343D-45BD-8294-3F3EF2EEC38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0911BF-343D-45BD-8294-3F3EF2EEC38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0911BF-343D-45BD-8294-3F3EF2EEC38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0911BF-343D-45BD-8294-3F3EF2EEC38A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7784E1-4556-4040-9E37-F73F8FF10B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7784E1-4556-4040-9E37-F73F8FF10B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7784E1-4556-4040-9E37-F73F8FF10B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7784E1-4556-4040-9E37-F73F8FF10B00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
