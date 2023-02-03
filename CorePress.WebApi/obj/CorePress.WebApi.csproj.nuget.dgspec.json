@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jack/CorePress/CorePress.WebApi/CorePress.WebApi.csproj": {}
+    "/home/jack/Documents/CorePress/CorePress.WebApi/CorePress.WebApi.csproj": {}
   },
   "projects": {
-    "/home/jack/CorePress/CorePress.WebApi/CorePress.WebApi.csproj": {
+    "/home/jack/Documents/CorePress/CorePress.WebApi/CorePress.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jack/CorePress/CorePress.WebApi/CorePress.WebApi.csproj",
+        "projectUniqueName": "/home/jack/Documents/CorePress/CorePress.WebApi/CorePress.WebApi.csproj",
         "projectName": "CorePress.WebApi",
-        "projectPath": "/home/jack/CorePress/CorePress.WebApi/CorePress.WebApi.csproj",
+        "projectPath": "/home/jack/Documents/CorePress/CorePress.WebApi/CorePress.WebApi.csproj",
         "packagesPath": "/home/jack/.nuget/packages/",
-        "outputPath": "/home/jack/CorePress/CorePress.WebApi/obj/",
+        "outputPath": "/home/jack/Documents/CorePress/CorePress.WebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jack/.nuget/NuGet/NuGet.Config"

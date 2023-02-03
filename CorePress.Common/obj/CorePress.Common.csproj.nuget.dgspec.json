@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jack/CorePress/CorePress.Common/CorePress.Common.csproj": {}
+    "/home/jack/Documents/CorePress/CorePress.Common/CorePress.Common.csproj": {}
   },
   "projects": {
-    "/home/jack/CorePress/CorePress.Common/CorePress.Common.csproj": {
+    "/home/jack/Documents/CorePress/CorePress.Common/CorePress.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jack/CorePress/CorePress.Common/CorePress.Common.csproj",
+        "projectUniqueName": "/home/jack/Documents/CorePress/CorePress.Common/CorePress.Common.csproj",
         "projectName": "CorePress.Common",
-        "projectPath": "/home/jack/CorePress/CorePress.Common/CorePress.Common.csproj",
+        "projectPath": "/home/jack/Documents/CorePress/CorePress.Common/CorePress.Common.csproj",
         "packagesPath": "/home/jack/.nuget/packages/",
-        "outputPath": "/home/jack/CorePress/CorePress.Common/obj/",
+        "outputPath": "/home/jack/Documents/CorePress/CorePress.Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jack/.nuget/NuGet/NuGet.Config"
