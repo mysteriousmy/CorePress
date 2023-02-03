@@ -33,6 +33,7 @@
   * 多个关系型数据库支持（MySQL、PostgreSQL、SQLite)
   * Redis (可选支持)
   * Docker (可选支持)
+  * Lucene.net (搜索引擎 暂定)
   * more...
 * 前端
   * Solid.js + Typescript
