@@ -1,0 +1,20 @@
+{
+  "Login": {
+    "username-tips": "請輸入您的使用者名/郵箱",
+    "password-tips": "請輸入您的密碼",
+    "otp-tips": "請輸入驗證碼",
+    "remember": "記住我",
+    "forget": "忘記密碼?",
+    "clear": "清除",
+    "login": "登入",
+    "success": "已成功登入!"
+  },
+  "Register": {
+    "email-tips": "請輸入註冊郵箱",
+    "username-tips": "請輸入註冊使用者名稱（不可少於6位）",
+    "password-tips": "請輸入密碼（不可少於8位）",
+    "repassword-tips": "請再次輸入密碼",
+    "regist": "註冊",
+    "success": "註冊成功!"
+  }
+}

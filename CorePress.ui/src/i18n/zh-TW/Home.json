@@ -1,0 +1,12 @@
+{
+    "Nav": {
+        "index": "首頁",
+        "tags": "標籤",
+        "classify": "機密",
+        "archive": "資料庫",
+        "log": "系統記錄",
+        "abount": "關於我",
+        "friend_link": "友情鏈接",
+        "settings": "設定..."
+    }
+}

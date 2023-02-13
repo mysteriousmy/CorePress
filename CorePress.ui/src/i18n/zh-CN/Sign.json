@@ -1,0 +1,20 @@
+{
+  "Login": {
+    "username-tips": "请输入用户名/邮箱",
+    "password-tips": "请输入密码",
+    "otp-tips": "请输入验证码",
+    "remember": "记住我",
+    "forget": "忘记密码?",
+    "clear": "清除",
+    "login": "登录",
+    "success": "登录成功！"
+  },
+  "Register": {
+    "email-tips": "请输入注册邮箱",
+    "username-tips": "请输入注册用户名（不可少于6位）",
+    "password-tips": "请输入密码（不可少于8位）",
+    "repassword-tips": "请再次输入密码",
+    "regist": "注册",
+    "success": "注册成功！"
+  }
+}

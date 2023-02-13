@@ -1,0 +1,20 @@
+{
+  "Login": {
+    "username-tips": "Please enter username/email",
+    "password-tips": "Please enter your password",
+    "otp-tips": "Please enter the verification code",
+    "remember": "Remember Me",
+    "forget": "Forgot password?",
+    "clear": "Clear",
+    "login": "Sign in",
+    "success": "Login successful!"
+  },
+  "Register": {
+    "email-tips": "Please enter your email",
+    "username-tips": "Please enter a registered username",
+    "password-tips": "Please Enter password",
+    "repassword-tips": "Please confirm your password",
+    "regist": "Sign up",
+    "success": "Registration successful!"
+  }
+}

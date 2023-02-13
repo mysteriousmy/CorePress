@@ -1,0 +1,12 @@
+{
+    "Nav": {
+        "index": "主页",
+        "tags": "标签",
+        "classify": "分类",
+        "archive": "归档",
+        "log": "日志",
+        "abount": "关于",
+        "friend_link": "友情链接",
+        "settings": "设置"
+    }
+}

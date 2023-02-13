@@ -1,0 +1,20 @@
+{
+  "Login": {
+    "username-tips": "ユーザ名/メールアドレス",
+    "password-tips": "パスワードを入力してください",
+    "otp-tips": "認証コードを入力してください",
+    "remember": "ログインした状態にしておく",
+    "forget": "パスワードを忘れましたか？",
+    "clear": "クリア",
+    "login": "ログイン",
+    "success": "ログインに成功しました！"
+  },
+  "Register": {
+    "email-tips": "登録完了メールを表示",
+    "username-tips": "登録者名を入力してください。(6桁未満である)",
+    "password-tips": "パスワードを入力してください(必ず8桁以上)",
+    "repassword-tips": "パスワードをもう一度入力してください",
+    "regist": "登録",
+    "success": "登録に成功しました ！"
+  }
+}

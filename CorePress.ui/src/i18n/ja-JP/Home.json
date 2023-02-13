@@ -1,0 +1,12 @@
+{
+    "Nav": {
+        "index": "ホーム",
+        "tags": "タグ",
+        "classify": "分類",
+        "archive": "アーカイブ",
+        "log": "ログページ",
+        "abount": "IINAについて",
+        "friend_link": "ウェブリンク",
+        "settings": "設定"
+    }
+}

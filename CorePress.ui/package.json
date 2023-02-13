@@ -6,7 +6,12 @@
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "crowdin:upload": "crowdin upload sources",
+    "crowdin:en": "crowdin download -l en-US",
+    "crowdin:tw": "crowdin download -l zh-TW",
+    "crowdin:jp": "crowdin download -l ja-JP",
+    "crowdin:kr": "crowdin download -l ko-KR"
   },
   "license": "MIT",
   "devDependencies": {
@@ -24,6 +29,8 @@
     "vite-plugin-solid": "^2.5.0"
   },
   "dependencies": {
+    "@solid-primitives/i18n": "^1.1.4",
+    "@solidjs/router": "^0.7.0",
     "@suid/icons-material": "^0.5.8",
     "@suid/material": "^0.10.1",
     "@suid/vite-plugin": "^0.1.2",

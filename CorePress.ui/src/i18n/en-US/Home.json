@@ -1,0 +1,12 @@
+{
+    "Nav": {
+        "index": "Home",
+        "tags": "Tag",
+        "classify": "Categories",
+        "archive": "Archives",
+        "log": "Logs",
+        "abount": "About",
+        "friend_link": "Web Link",
+        "settings": "Settings"
+    }
+}
