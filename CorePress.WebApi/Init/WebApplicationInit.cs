@@ -1,6 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Reflection;
+﻿using System.Reflection;
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using CorePress.Common.Const;
@@ -9,9 +7,6 @@ using CorePress.Data.Entity.AdminSystem;
 using CorePress.Data.Entity.UserSystem;
 using FreeSql;
 using FreeSql.Internal;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 using Serilog;
 using Serilog.Sinks.SystemConsole.Themes;
 
