@@ -1,7 +1,13 @@
-var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
-app.MapGet("/", () => new {
-    messege = "Hello World"
-});
+using CorePress.WebApi.Init;
+using Microsoft.AspNetCore.Builder;
 
-app.Run();
+var builder = WebApplication.CreateBuilder(args);
+
+new WebApplicationInit(builder)
+    .InitLogger()
+    .InitConfig()
+    .InitDataBase()
+    .InitService()
+    .CreateWebAppServer();
+
+    

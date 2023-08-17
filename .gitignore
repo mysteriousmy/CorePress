@@ -1,0 +1,23 @@
+bin/
+obj/
+packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/
+appsettings.Development.json
+appsettings.json
+x.docx
+Logs/
+node_modules/
+dist/
+.vscode
+.swc
+/.next/
+/out/
+
+# production
+build/
+<<<<<<< HEAD
+.vs/
+=======
+>>>>>>> 300272821d8f0c886d06c3b02f94ddc1bf4acc69
